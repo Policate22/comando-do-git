@@ -13,3 +13,4 @@
 <font color=reddd>6 Passo:</font> git config --list para ver se o comando esta tudo certo.
 
 <font color=reddd>7 Passo:</font> code . para abrir o VS CODE
+
