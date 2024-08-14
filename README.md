@@ -1,4 +1,4 @@
-# <font color=reddd> Comando Do GTI</font>
+# <font color=reddd> Comando Do GIT</font>
 
  <font color=reddd>1 Passo:</font> mkdir nome, para criar uma pasta.
 
